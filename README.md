@@ -28,8 +28,8 @@
 ![OOP](https://img.shields.io/badge/-OOP-05122A?style=flat&logo=OOP&logoColor=563D7C)&nbsp;
 ![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-05122A?style=flat&logo=Web%20Scraping)&nbsp;
 ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-05122A?style=flat&logo=Microsoft%20Excel&logoColor=1572B6)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS&logoColor=339933)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=Tableau&logoColor=007ACC)&nbsp;
